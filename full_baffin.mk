@@ -8,5 +8,5 @@ $(call inherit-product, device/samsung/baffin/baffin.mk)
 PRODUCT_DEVICE := baffin
 PRODUCT_NAME := full_baffin
 PRODUCT_BRAND := samsung
-PRODUCT_MODEL := GT-I9o82
+PRODUCT_MODEL := GT-I9082 ## this shouldn't be gt-i9o82
 PRODUCT_MANUFACTURER := samsung
